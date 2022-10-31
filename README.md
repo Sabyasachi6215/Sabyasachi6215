@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MLOps**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sabyarjit-ghosh)
 
 - 💬 Ask me about **Data Science, ML , Computer Vision**
 
